@@ -1,0 +1,2143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foja\n"
+"POT-Creation-Date: 2018-03-28 15:55+0700\n"
+"PO-Revision-Date: 2016-12-27 16:21+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "The page you were looking for doesn&rsquo;t exist."
+msgstr ""
+
+#: 404.php:9
+msgid "You may have mistyped the address or the page may have moved."
+msgstr ""
+
+#: 404.php:16
+msgid "Go back to the homepage "
+msgstr ""
+
+#: author.php:46
+msgid "Stories by"
+msgstr ""
+
+#: author.php:59
+msgid "No posts by this author."
+msgstr ""
+
+#: category.php:15 category.php:24
+msgid "Category"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:920
+#: class-tgm-plugin-activation.php:2626 class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027 class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm.php:64
+msgid "Foja Extra"
+msgstr ""
+
+#: class-tgm.php:75
+msgid "Contact Form 7"
+msgstr ""
+
+#: class-tgm.php:86
+msgid "ACF Pro"
+msgstr ""
+
+#: class-tgm.php:97
+msgid "Redux Framework"
+msgstr ""
+
+#: class-tgm.php:108
+msgid "Elementor"
+msgstr ""
+
+#: comments.php:35
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:88
+msgid " &copy; Copyright "
+msgstr ""
+
+#: footer.php:88
+msgid ", Built by Themes Awesome"
+msgstr ""
+
+#: functions.php:163
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:165 inc/opt-ext/footer-section-opt/footer-style-opt.php:66
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:167
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:279
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:391
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:215
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:253
+msgid "First"
+msgstr ""
+
+#: functions.php:265
+msgid "Last"
+msgstr ""
+
+#: functions.php:281
+msgid "Your Name"
+msgstr ""
+
+#: functions.php:286
+msgid "Your Email"
+msgstr ""
+
+#: functions.php:291
+msgid "Website URL"
+msgstr ""
+
+#: functions.php:305
+msgid "Your thoughts.."
+msgstr ""
+
+#: header.php:131 header.php:146 inc/part/search-big.php:16
+#: inc/part/search-big.php:31
+msgid "Hit enter to search or ESC to close"
+msgstr ""
+
+#: header.php:150 inc/part/search-big.php:35
+msgid "Suggestion?"
+msgstr ""
+
+#: header.php:152 inc/part/search-big.php:37
+msgid "Insert any word you want to search."
+msgstr ""
+
+#: inc/format/content-gallery.php:32 inc/format/content-video.php:36
+#: inc/format/content.php:21 inc/format/loop-2-gallery.php:48
+#: inc/format/loop-2-video.php:36 inc/format/loop-2.php:26
+#: inc/format/loop-gallery.php:11 inc/format/loop-video.php:11
+#: inc/format/loop.php:11
+msgid "by"
+msgstr ""
+
+#: inc/format/content-gallery.php:36 inc/format/content-video.php:40
+#: inc/format/content.php:25 inc/format/loop-2-gallery.php:52
+#: inc/format/loop-2-video.php:40 inc/format/loop-2.php:30
+#: inc/format/loop-gallery.php:15 inc/format/loop-video.php:15
+#: inc/format/loop.php:15
+msgid "in "
+msgstr ""
+
+#: inc/format/content-gallery.php:54 inc/format/content-page.php:12
+#: inc/format/content-video.php:58 inc/format/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#: inc/format/content-gallery.php:58 inc/format/content-page.php:16
+#: inc/format/content-video.php:62 inc/format/content.php:48
+msgid "Page"
+msgstr ""
+
+#: inc/format/content-no-result.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/format/content-no-result.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: inc/format/content-search-no-result.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. It looks like nothing was "
+"found at this location."
+msgstr ""
+
+#: inc/format/content-search-no-result.php:12
+msgid "Please try again here:"
+msgstr ""
+
+#: inc/format/content-search-no-result.php:18
+msgid "Suggestions:"
+msgstr ""
+
+#: inc/format/content-search-no-result.php:21
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+#: inc/format/content-search-no-result.php:22
+msgid "Try some different keywords."
+msgstr ""
+
+#: inc/format/content-search-no-result.php:23
+msgid "Try general keywords."
+msgstr ""
+
+#: inc/format/loop-2-gallery.php:70 inc/format/loop-2-video.php:58
+#: inc/format/loop-2.php:48
+msgid "Read More"
+msgstr ""
+
+#: inc/function/comment.php:14 search.php:10
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:30
+msgid "Edit"
+msgstr ""
+
+#: inc/function/custom.php:300 inc/function/custom.php:307
+#: template/single-porto.php:168 template/single-porto.php:175
+msgid "Prev Entry"
+msgstr ""
+
+#: inc/function/custom.php:323 inc/function/custom.php:332
+#: template/single-porto.php:191 template/single-porto.php:200
+msgid "Back"
+msgstr ""
+
+#: inc/function/custom.php:343 inc/function/custom.php:350
+#: template/single-porto.php:211 template/single-porto.php:218
+msgid "Next Entry"
+msgstr ""
+
+#: inc/function/navigation.php:37
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:41
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/function/navigation.php:48
+msgid "OLDER POSTS"
+msgstr ""
+
+#: inc/function/navigation.php:54
+msgid "NEWER POSTS"
+msgstr ""
+
+#: inc/function/thefooter.php:9 inc/function/thefooter.php:23
+#: inc/function/thefooter.php:46 inc/function/thefooter.php:79
+msgid "Footer 1"
+msgstr ""
+
+#: inc/function/thefooter.php:33 inc/function/thefooter.php:56
+#: inc/function/thefooter.php:89
+msgid "Footer 2"
+msgstr ""
+
+#: inc/function/thefooter.php:66 inc/function/thefooter.php:99
+msgid "Footer 3"
+msgstr ""
+
+#: inc/function/thefooter.php:109
+msgid "Footer 4"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:13
+msgid "Body Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:26
+msgid "Set website body font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:46
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:58 inc/opt-ext/content-typo-opt.php:107
+#: inc/opt-ext/content-typo-opt.php:141 inc/opt-ext/content-typo-opt.php:175
+#: inc/opt-ext/content-typo-opt.php:209 inc/opt-ext/content-typo-opt.php:243
+#: inc/opt-ext/content-typo-opt.php:277
+msgid "Set website heading font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:89
+msgid "Heading 1 Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:123
+msgid "Heading 2 Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:157
+msgid "Heading 3 Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:191
+msgid "Heading 4 Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:225
+msgid "Heading 5 Typography"
+msgstr ""
+
+#: inc/opt-ext/content-typo-opt.php:259
+msgid "Heading 6 Typography"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:11
+msgid "Footer Style Type"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:13
+msgid "Always on Bottom of desktop."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:14
+msgid "Fixed Footer."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:24
+msgid "Footer Type"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:25
+msgid "Select Your Footer Type"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:37
+msgid "Footer Dimensions"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:38
+msgid "Footer Background"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:39
+msgid "Footer Features"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:49
+msgid "Footer Container Width."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:50
+msgid "Define width for footer container"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:74
+msgid "Padding Footer"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:75
+msgid "Allow your users to choose the spacing or padding they want."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:76
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:181
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:95
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:65
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:166
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:273
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:390
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:96
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:34
+msgid "Upload your logo image here (any size)."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:106
+msgid "Footer Address"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:116
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:117
+msgid "Add Your Copyright Here"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:118
+msgid "Built by Themes Awesome"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:129
+msgid "Footer Custom Background"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:130
+msgid "Footer background with image, color, etc."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:145
+msgid "Use Boxed Footer"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:146
+msgid "Make your footer boxed"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:156
+msgid "Content Boxed Width."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:157
+msgid "Define width for footer box."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:179
+msgid "Margin Boxed Footer"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-general-opt.php:180
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:11
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:12
+msgid "Select footer between 1, 2, 3 or 4 column layout."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:26
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:56
+msgid "Footer First Column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:27
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:157
+msgid "Footer Second Column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:28
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:269
+msgid "Footer Third Column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:29
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:381
+msgid "Footer Fourth Column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:39
+msgid "Footer Column 1 Setting"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:41
+msgid "Column 1 Content"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:42
+msgid "Column 1 Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:43
+msgid "Column 1 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:44
+msgid "Column 1 Margin"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:57
+msgid "Organize how you want the layout to appear on the footer first column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:60
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:165
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:278
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:389
+msgid "Copyright"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:63
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:164
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:276
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:385
+msgid "Social"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:64
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:161
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:277
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:388
+msgid "Text"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:79
+msgid "Footer First Column Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:81
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:182
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:294
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:406
+msgid "Horizontal Item"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:82
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:183
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:295
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:407
+msgid "Vertical Item"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:95
+msgid "Footer Column 1 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:97
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:198
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:310
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:422
+msgid "Text Left"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:98
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:199
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:311
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:423
+msgid "Text Center"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:99
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:200
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:312
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:424
+msgid "Text Right"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:121
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:222
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:334
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:447
+msgid "Margin Footer Column Item"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:140
+msgid "Footer Column 2 Setting"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:142
+msgid "Column 2 Content"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:143
+msgid "Column 2 Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:144
+msgid "Column 2 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:145
+msgid "Column 2 Margin"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:158
+msgid "Organize how you want the layout to appear on the footer second column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:180
+msgid "Footer Second Column Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:196
+msgid "Footer Column 2 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:240
+msgid "Second Column not available for this option setting."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:252
+msgid "Footer Column 3 Setting"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:254
+msgid "Column 3 Content"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:255
+msgid "Column 3 Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:256
+msgid "Column 3 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:257
+msgid "Column 3 Margin"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:270
+msgid "Organize how you want the layout to appear on the footer third column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:292
+msgid "Footer Third Column Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:308
+msgid "Footer Column 3 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:352
+msgid "Third Column not available for this option setting."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:364
+msgid "Footer Column 4 Setting"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:366
+msgid "Column 4 Content"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:367
+msgid "Column 4 Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:368
+msgid "Column 4 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:369
+msgid "Column 4 Margin"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:382
+msgid "Organize how you want the layout to appear on the footer fourth column"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:404
+msgid "Footer Fourth Column Display"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:420
+msgid "Footer Column 4 Align"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-style-opt.php:465
+msgid "Fourth Column not available for this option setting."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:12
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:13
+msgid ""
+"Select footer and widget alignment. Choose between 1, 2, 3 or 4 column "
+"layout."
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:36
+msgid "Padding Footer Widget"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:56
+msgid "Padding Footer Bottom"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:68
+msgid "Footer Widget Border"
+msgstr ""
+
+#: inc/opt-ext/footer-section-opt/footer-widget-opt.php:83
+msgid "Footer Bottom Border"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:11
+msgid "Alternative Header Scheme"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:13
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:56
+msgid "Enable"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:14
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:57
+msgid "Disable"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:21
+msgid "Header text color"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:22
+msgid "Set header text color"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:33
+msgid "Alternative Logo"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:44
+msgid "Header Alternative Background"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:45
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-alt-opt.php:54
+msgid "Header Fixed Space"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:12
+#: inc/opt-ext/header-section-opt/header-general-opt.php:25
+msgid "Header Logo"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:13
+msgid "Header Dimensions"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:14
+msgid "Header Background"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:41
+msgid "Padding Logo"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:42
+msgid "A gap space for your logo image and title."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:55
+msgid "Header Two Menus Width."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-general-opt.php:56
+msgid "Define width for header with two menus (px)"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-opt.php:12
+msgid "You are be able to set the main wrapper type."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-opt.php:13
+msgid ""
+"If you want to make it as boxed. You need to set main wrapper only width to "
+"make it boxed. Try it in <strong>Page Options</strong> tab."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-opt.php:18
+msgid "Header 2 Headline"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-opt.php:24
+msgid "Built your own with Foja."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-opt.php:25
+msgid "Header 2 HTML Description"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:11
+msgid "Search Bar Style"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:13
+msgid "Default Search Bar"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:14
+msgid "Expanded Search Content"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:21
+msgid "Search Bar Title"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:28
+msgid "Search Suggestion Title"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-search-opt.php:35
+msgid "Search Suggestion Description"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-typo-opt.php:11
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-typo-opt.php:25
+msgid "Typography just available for header type 2 and 3."
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-typo-opt.php:43
+msgid "Header 2 & 3 Mobile Typography"
+msgstr ""
+
+#: inc/opt-ext/header-section-opt/header-typo-opt.php:57
+msgid "Set website menu font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:11
+msgid "Single Post Layout Type"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:12
+msgid "Select Your Single Post Layout Type"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:14 inc/option/panel/config.php:433
+msgid "Full Width"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:15 inc/option/panel/config.php:434
+msgid "Sidebar"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:35
+msgid "Padding Single Post"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:36
+msgid "Padding top and bottom for Single Post."
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:53
+msgid "Post Link Page"
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:54
+msgid "Select your post back page link."
+msgstr ""
+
+#: inc/opt-ext/singlepost-opt.php:55
+msgid "This link will work in single post type as back button link."
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:10
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:18
+msgid "twitter Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:27
+msgid "Google+ Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:36
+msgid "linkedin Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:45
+msgid "Pinterest Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:53
+msgid "Dribble Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:61
+msgid "Flickr Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:69
+msgid "Behance Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:77
+msgid "Youtube Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:85
+msgid "Soundcloud Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:93
+msgid "Codepen Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:101
+msgid "Deviantart Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:109
+msgid "Digg Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:117
+msgid "Dropbox Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:125
+msgid "Github Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:133
+msgid "Instagram Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:141
+msgid "Skype Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:149
+msgid "Spotify Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:157
+msgid "Steam Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:165
+msgid "Trello Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:173
+msgid "Tumblr Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:181
+msgid "Vimeo Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:189
+msgid "Wechat Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:197
+msgid "Weibo Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:205
+msgid "WordPress Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:213
+msgid "Xing Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:221
+msgid "Yahoo Profile"
+msgstr ""
+
+#: inc/opt-ext/social-opt-ext.php:229
+msgid "Yelp Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:72
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/option/panel/config.php:111
+msgid "Header Builder"
+msgstr ""
+
+#: inc/option/panel/config.php:120
+msgid "General Header"
+msgstr ""
+
+#: inc/option/panel/config.php:129
+msgid "Header Style"
+msgstr ""
+
+#: inc/option/panel/config.php:138
+msgid "Header Alternative"
+msgstr ""
+
+#: inc/option/panel/config.php:149
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/option/panel/config.php:155
+msgid "Header Mobile Default Background"
+msgstr ""
+
+#: inc/option/panel/config.php:163
+msgid "Header Mobile Alternative Background"
+msgstr ""
+
+#: inc/option/panel/config.php:179
+msgid "Header Mobile Padding"
+msgstr ""
+
+#: inc/option/panel/config.php:200
+msgid "Logo Mobile Margin"
+msgstr ""
+
+#: inc/option/panel/config.php:221
+msgid "Margin Mobile Menu"
+msgstr ""
+
+#: inc/option/panel/config.php:239
+msgid "Search Bar"
+msgstr ""
+
+#: inc/option/panel/config.php:249
+msgid "Header Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:263
+msgid "Content Options"
+msgstr ""
+
+#: inc/option/panel/config.php:271
+msgid "Content Container Width"
+msgstr ""
+
+#: inc/option/panel/config.php:272
+msgid "Define width for content container"
+msgstr ""
+
+#: inc/option/panel/config.php:284
+msgid "Content Custom Background"
+msgstr ""
+
+#: inc/option/panel/config.php:285 inc/option/panel/config.php:383
+msgid "Content background with image, color, etc."
+msgstr ""
+
+#: inc/option/panel/config.php:300
+msgid "Wrapper Option"
+msgstr ""
+
+#: inc/option/panel/config.php:301
+msgid "Select Your Wrapper Type"
+msgstr ""
+
+#: inc/option/panel/config.php:313
+msgid "Border Frame Color"
+msgstr ""
+
+#: inc/option/panel/config.php:314
+msgid "Pick a border color for the frame (default: #111111)."
+msgstr ""
+
+#: inc/option/panel/config.php:323
+msgid "Border Frame Vertical"
+msgstr ""
+
+#: inc/option/panel/config.php:324
+msgid "Define width for vertical border frame"
+msgstr ""
+
+#: inc/option/panel/config.php:342
+msgid "Border Frame Horizontal"
+msgstr ""
+
+#: inc/option/panel/config.php:343
+msgid "Define width for horizontal border frame"
+msgstr ""
+
+#: inc/option/panel/config.php:358
+msgid "Header 2 Boxed Content"
+msgstr ""
+
+#: inc/option/panel/config.php:359
+msgid "Make your main wrapper boxed"
+msgstr ""
+
+#: inc/option/panel/config.php:366
+msgid "Boxed Content Width"
+msgstr ""
+
+#: inc/option/panel/config.php:367
+msgid "Define width for boxed content."
+msgstr ""
+
+#: inc/option/panel/config.php:382
+msgid "Boxed Content Background"
+msgstr ""
+
+#: inc/option/panel/config.php:400
+msgid "Content Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:413
+msgid "Blog Options"
+msgstr ""
+
+#: inc/option/panel/config.php:420
+msgid "Blog Layout Style"
+msgstr ""
+
+#: inc/option/panel/config.php:422
+msgid "Blog 1"
+msgstr ""
+
+#: inc/option/panel/config.php:423
+msgid "Blog 2"
+msgstr ""
+
+#: inc/option/panel/config.php:430
+msgid "Blog Loop Layout Type"
+msgstr ""
+
+#: inc/option/panel/config.php:431
+msgid "Select Your Blog Loop Layout Type"
+msgstr ""
+
+#: inc/option/panel/config.php:441
+msgid "Blog Pagination Type"
+msgstr ""
+
+#: inc/option/panel/config.php:443
+msgid "Default Pagination"
+msgstr ""
+
+#: inc/option/panel/config.php:444
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/option/panel/config.php:445
+msgid "Infinite Loop Pagination"
+msgstr ""
+
+#: inc/option/panel/config.php:452
+msgid "Blog Infinite Button Style"
+msgstr ""
+
+#: inc/option/panel/config.php:454
+msgid "Style 1"
+msgstr ""
+
+#: inc/option/panel/config.php:455
+msgid "Style 2"
+msgstr ""
+
+#: inc/option/panel/config.php:456
+msgid "Style 3"
+msgstr ""
+
+#: inc/option/panel/config.php:477
+msgid "Padding Blog"
+msgstr ""
+
+#: inc/option/panel/config.php:478
+msgid "Padding top and bottom for Blog Page."
+msgstr ""
+
+#: inc/option/panel/config.php:499
+msgid "Archive Options"
+msgstr ""
+
+#: inc/option/panel/config.php:527
+msgid "Padding Archive"
+msgstr ""
+
+#: inc/option/panel/config.php:528 inc/option/panel/config.php:548
+msgid "Padding top and bottom for Archive Page."
+msgstr ""
+
+#: inc/option/panel/config.php:547
+msgid "Padding Archive Search"
+msgstr ""
+
+#: inc/option/panel/config.php:569
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/option/panel/config.php:583
+msgid "Single Portfolio Options"
+msgstr ""
+
+#: inc/option/panel/config.php:590
+msgid "Single Portfolio Style"
+msgstr ""
+
+#: inc/option/panel/config.php:592
+msgid "Single Portfolio Default"
+msgstr ""
+
+#: inc/option/panel/config.php:593
+msgid "Single Portfolio Builder"
+msgstr ""
+
+#: inc/option/panel/config.php:610
+msgid "Padding Single Portfolio"
+msgstr ""
+
+#: inc/option/panel/config.php:611
+msgid "Padding top and bottom for Single Portfolio."
+msgstr ""
+
+#: inc/option/panel/config.php:629
+msgid "Portfolio Link Page"
+msgstr ""
+
+#: inc/option/panel/config.php:630
+msgid "Insert your portfolio page link."
+msgstr ""
+
+#: inc/option/panel/config.php:631
+msgid "This link will work in single portfolio default as back button link."
+msgstr ""
+
+#: inc/option/panel/config.php:643
+msgid "404 Options"
+msgstr ""
+
+#: inc/option/panel/config.php:651
+msgid "404 Body Background"
+msgstr ""
+
+#: inc/option/panel/config.php:652 inc/option/panel/config.php:675
+msgid "404 background with image, color, etc."
+msgstr ""
+
+#: inc/option/panel/config.php:666
+msgid "Page Loader Options"
+msgstr ""
+
+#: inc/option/panel/config.php:674
+msgid "Loader Background"
+msgstr ""
+
+#: inc/option/panel/config.php:684
+msgid "Loader Image"
+msgstr ""
+
+#: inc/option/panel/config.php:685
+msgid "GIF recommended."
+msgstr ""
+
+#: inc/option/panel/config.php:695
+msgid "Loader Size."
+msgstr ""
+
+#: inc/option/panel/config.php:696
+msgid "Define size for loader image (px)"
+msgstr ""
+
+#: inc/option/panel/config.php:720
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/option/panel/config.php:729
+msgid "General Footer"
+msgstr ""
+
+#: inc/option/panel/config.php:739
+msgid "Footer Style"
+msgstr ""
+
+#: inc/option/panel/config.php:749
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/option/panel/config.php:756
+msgid "Other Options"
+msgstr ""
+
+#: inc/option/panel/config.php:761
+msgid "Social Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:773
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/option/panel/config.php:774
+msgid "<p>Please go to themesawesome.com to get support</p>"
+msgstr ""
+
+#: inc/option/panel/config.php:790 inc/option/panel/config.php:791
+msgid "Options"
+msgstr ""
+
+#: inc/panels/color-options.php:13
+msgid "Header Section Color"
+msgstr ""
+
+#: inc/panels/color-options.php:14
+msgid "Edit your header color here."
+msgstr ""
+
+#: inc/panels/color-options.php:23
+msgid "Header"
+msgstr ""
+
+#: inc/panels/color-options.php:142
+msgid "Background Header Color"
+msgstr ""
+
+#: inc/panels/color-options.php:149
+msgid "Inner Header Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:156
+msgid "The Dividing Line Between Menus and Descriptions"
+msgstr ""
+
+#: inc/panels/color-options.php:163
+msgid "Burger Icon & Search Icon Header Color"
+msgstr ""
+
+#: inc/panels/color-options.php:170
+msgid "Menu List Color"
+msgstr ""
+
+#: inc/panels/color-options.php:177
+msgid "Menu List Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:184
+msgid "Info Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:191
+msgid "Info Description Color"
+msgstr ""
+
+#: inc/panels/color-options.php:198
+msgid "Search Bar Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:205
+msgid "Search Suggestion Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:212
+msgid "Search Suggestion Description Color"
+msgstr ""
+
+#: inc/panels/color-options.php:219
+msgid "Button Search Close Color"
+msgstr ""
+
+#: inc/panels/color-options.php:226
+msgid "Search Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:233
+msgid "Search Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:251
+msgid "Content Section Color"
+msgstr ""
+
+#: inc/panels/color-options.php:252
+msgid "Edit your content color here."
+msgstr ""
+
+#: inc/panels/color-options.php:260
+msgid "Blog Loop Style 2"
+msgstr ""
+
+#: inc/panels/color-options.php:369 inc/panels/color-options.php:576
+msgid "Post Date Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:376 inc/panels/color-options.php:590
+msgid "Post Date Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:383 inc/panels/color-options.php:541
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:390
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:397 inc/panels/color-options.php:555
+msgid "Post Meta Color"
+msgstr ""
+
+#: inc/panels/color-options.php:404 inc/panels/color-options.php:562
+msgid "Post Meta Link Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:411
+msgid "Single Post Border Sparator 1 Color"
+msgstr ""
+
+#: inc/panels/color-options.php:418
+msgid "Single Post Border Sparator 2 Color"
+msgstr ""
+
+#: inc/panels/color-options.php:425
+msgid "Post Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:432
+msgid "Read More Button Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:439
+msgid "Read More Button Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:446
+msgid "Post Read More Button Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:453
+msgid "Post Read More Button Background Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:465
+msgid "Blog Style 1 Full Background Template"
+msgstr ""
+
+#: inc/panels/color-options.php:548
+msgid "Post Title Hover/Active Color"
+msgstr ""
+
+#: inc/panels/color-options.php:569
+msgid "Post Meta Hover Active Color"
+msgstr ""
+
+#: inc/panels/color-options.php:583
+msgid "Post Date Border Active Color"
+msgstr ""
+
+#: inc/panels/color-options.php:597
+msgid "Post Date Text Active Color"
+msgstr ""
+
+#: inc/panels/color-options.php:609
+msgid "Single Blog"
+msgstr ""
+
+#: inc/panels/color-options.php:861
+msgid "Single Post Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:868
+msgid "Single Post Title Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:875
+msgid "Title Separator Color"
+msgstr ""
+
+#: inc/panels/color-options.php:882
+msgid "Second Title Separator Color"
+msgstr ""
+
+#: inc/panels/color-options.php:889
+msgid "Single Post Meta Color"
+msgstr ""
+
+#: inc/panels/color-options.php:896
+msgid "Single Post Meta Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:903
+msgid "Single Post Style 2 Category Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:910
+msgid "Single Post Style 2 Category Background Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:917
+msgid "Single Post Style 2 Category Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:924
+msgid "Single Post Style 2 Category Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:931
+msgid "Single Post Comment Amount Number Color"
+msgstr ""
+
+#: inc/panels/color-options.php:938
+msgid "Single Post Comment Amount Number Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:945
+msgid "Single Post Text Description Color"
+msgstr ""
+
+#: inc/panels/color-options.php:952
+msgid "Single Post Text Quote Color"
+msgstr ""
+
+#: inc/panels/color-options.php:959
+msgid "Quote Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:966
+msgid "Quote Icon Color"
+msgstr ""
+
+#: inc/panels/color-options.php:973
+msgid "Tags Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:980
+msgid "Tags Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:987
+msgid "Tags Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:994
+msgid "Tags Background Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1001
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1008
+msgid "Next & Previous Post Icon Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1015
+msgid "Next & Previous Post Text Link Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1022
+msgid "Next & Previous Post Link Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1029
+msgid "Next & Previous Post border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1036
+msgid "Comment Reply Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1043
+msgid "Comment Link Log in & Log Out Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1050
+msgid "Comment Link Log in & Log Out Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1057
+msgid "Post Comment Button Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1064
+msgid "Post Comment Button Background Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1071
+msgid "Post Comment Button Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1078
+msgid "Next & Previous Post Text Color (Archive)"
+msgstr ""
+
+#: inc/panels/color-options.php:1090
+msgid "Sidebar & Widget"
+msgstr ""
+
+#: inc/panels/color-options.php:1215
+msgid "Search Widget Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1222
+msgid "Search Widget Button Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1229
+msgid "Search Widget Button Icon Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1236
+msgid "Widget Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1243
+msgid "Widget Titlte Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1250
+msgid "Widget Titlte Sparator Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1257
+msgid "Widget Second Titlte Sparator Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1264
+msgid "Sidebar Widget Link Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1271
+msgid "Sidebar Widget Link Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1278
+msgid "foja News Widget Tabs Active Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1285
+msgid "foja News Widget Tabs Text Active Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1292
+msgid "foja News Widget Tabs Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1299
+msgid "foja News Widget Tabs Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1306
+msgid "foja News Widget Tabs Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1313
+msgid "foja News Widget Tabs Border Bottom Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1324
+msgid "Contact Form"
+msgstr ""
+
+#: inc/panels/color-options.php:1385
+msgid "Contact Form Style 1&2 Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1392
+msgid "Contact Form Style 2 Border Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1399
+msgid "Text Input Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1406
+msgid "Contact Form Style 1&2 Button Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1413
+msgid "Contact Form Style 1&2 Button Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1420
+msgid "Contact Form Style 1&2 Button Background Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1427
+msgid "Contact Form Style 1&2 Button Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1446
+msgid "Portfolio Section Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1447
+msgid "Edit Your Page Template Color Here."
+msgstr ""
+
+#: inc/panels/color-options.php:1456
+msgid "Single Portfolio"
+msgstr ""
+
+#: inc/panels/color-options.php:1522
+msgid "Project Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1529
+msgid "Project Category Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1536
+msgid "Project Details Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1543
+msgid "Project Details Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1550
+msgid "Project Details Border Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1557
+msgid "Project Details All Style Description Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1564
+msgid "Project Pagination Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1583
+msgid "Footer Section Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1584
+msgid "Edit your Footer color here."
+msgstr ""
+
+#: inc/panels/color-options.php:1592
+msgid "Footer"
+msgstr ""
+
+#: inc/panels/color-options.php:1687
+msgid "Footer Copyright & Address Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1694
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1701
+msgid "Footer Copyright Link Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1708
+msgid "Footer Social Icon Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1715
+msgid "Footer Social Icon Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1722
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1729
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1736
+msgid "Footer Widget Link Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1743
+msgid "Footer Widget Link Text Hover Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1750
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: inc/panels/color-options.php:1757
+msgid "Footer Widget Border Color"
+msgstr ""
+
+#: inc/panels/general-options.php:12
+msgid "Background Color"
+msgstr ""
+
+#: inc/panels/general-options.php:22
+msgid "Blog Header Image"
+msgstr ""
+
+#: inc/panels/general-options.php:30
+msgid ""
+"The site logo is used as a graphical representation of your company name. "
+"Recommended size: 105 (width) x 75 (height) pixels(px)."
+msgstr ""
+
+#: inc/panels/general-options.php:31
+msgid "Site logo"
+msgstr ""
+
+#: inc/panels/general-options.php:55
+msgid "General Options"
+msgstr ""
+
+#: inc/panels/general-options.php:56
+msgid ""
+"You can change the site layout in this area as well as your contact details "
+"(the ones displayed in the header & footer) "
+msgstr ""
+
+#: inc/panels/general-options.php:64
+msgid "Logo"
+msgstr ""
+
+#: inc/part/related-post.php:21
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:10
+msgid "Foja News Widget"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:30
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:31
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:146
+#: inc/widgets/foja-latestpost-widget.php:147
+#: inc/widgets/foja-latestpost2-widget.php:81
+#: inc/widgets/foja-latestpost2-widget.php:82
+msgid "Foja News"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:151
+#: inc/widgets/foja-latestpost2-widget.php:86
+#: inc/widgets/foja-portfolio-widget.php:90
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/foja-latestpost-widget.php:155
+#: inc/widgets/foja-latestpost2-widget.php:90
+#: inc/widgets/foja-portfolio-widget.php:94
+msgid "Amount of Posts"
+msgstr ""
+
+#: inc/widgets/foja-latestpost2-widget.php:10
+msgid "Foja Latest News"
+msgstr ""
+
+#: inc/widgets/foja-portfolio-widget.php:10
+msgid "Foja Portfolio Thumbnail"
+msgstr ""
+
+#: inc/widgets/foja-portfolio-widget.php:85
+#: inc/widgets/foja-portfolio-widget.php:86
+msgid "Latest Works"
+msgstr ""
+
+#: index.php:55
+msgid "Load More"
+msgstr ""
+
+#: search.php:9
+msgid "Search Results"
+msgstr ""

@@ -1,0 +1,52 @@
+= v1.5 - 18 December 2020
+- UPDATED		: Some scripts library
+- UPDATED		: Change container size default
+- UPDATED		: Theme option interface color
+- REMOVED		: Page loader function
+
+= v1.4 - 19 October 2020
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.9.1
+- FIXED		: Demo Importer
+- FIXED		: Some escaping and text validation
+
+= v1.3 - 20 April 2020
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.8.9
+
+- FIXED		: Single Porto
+- FIXED		: Portofolio block
+- FIXED		: Client block
+- FIXED		: Team block
+- FIXED		: Testimonial block
+- FIXED		: Post block
+
+
+= v1.2 - 14 May 2019
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.8.0
+- UPDATED	: Demo Importer Content
+
+File Changed:
+- plugins/advanced-custom-fields-pro.zip
+- plugins/foja-extra.zip
+
+= v1.1 - 10 December 2018
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.7.8
+- UPDATED	: Customizer colors
+
+File Changed:
+- plugins/advanced-custom-fields-pro.zip
+- inc/function/inline-styles.php
+- inc/panel/color-options.php
+- js/color-customizer.js
+
+= v1.0.1 - March 28, 2018
+
+- ADDED		: Demo 1 Importer
+- FIXED		: Instagram feed block
+
+File Changed:
+- plugins/foja-extra.zip
+
+= v1.0 =
+- inital release

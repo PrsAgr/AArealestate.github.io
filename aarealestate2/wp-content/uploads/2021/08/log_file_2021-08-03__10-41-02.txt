@@ -1,0 +1,22 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/aarealestate2
+Data file = F:\xampp\htdocs\aarealestate2/wp-content/uploads/2021/08/demo-content-import-file_2021-08-03__10-41-02.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+foja_framework -> F:\xampp\htdocs\aarealestate2/wp-content/uploads/2021/08/demo-redux-import-file_0-2021-08-03__10-41-02.json 
+
+
+------
+New AJAX call!
+
+
+---Importing Redux settings---
+Redux settings import for: foja_framework finished successfully!
+
+---ocdi/after_import---
+
